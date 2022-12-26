@@ -1,4 +1,4 @@
-#Pizzeria and pastry shop simulator
+#  Pizzeria and pastry shop simulator
 
 <div align="center"> 
 In this simulator, pastries and pizzas arrives in a shop and been processed. Reports of the processing units and the orders are printed in differents .txt
