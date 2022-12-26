@@ -1,0 +1,711 @@
+==================================================
+Número do pedido:2
+Tempo de chegada: 9
+Número de Pizzas: 2
+Número de Pasteis: 1
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 26
+Tempo Necessario Ao Processamento: 3
+==================================================
+==================================================
+Número do pedido:1
+Tempo de chegada: 8
+Número de Pizzas: 2
+Número de Pasteis: 2
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 28
+Tempo Necessario Ao Processamento: 4
+==================================================
+==================================================
+Número do pedido:3
+Tempo de chegada: 20
+Número de Pizzas: 3
+Número de Pasteis: 3
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 50
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:4
+Tempo de chegada: 40
+Número de Pizzas: 1
+Número de Pasteis: 3
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 56
+Tempo Necessario Ao Processamento: 4
+==================================================
+==================================================
+Número do pedido:8
+Tempo de chegada: 63
+Número de Pizzas: 1
+Número de Pasteis: 2
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 76
+Tempo Necessario Ao Processamento: 3
+==================================================
+==================================================
+Número do pedido:9
+Tempo de chegada: 68
+Número de Pizzas: 1
+Número de Pasteis: 1
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 78
+Tempo Necessario Ao Processamento: 2
+==================================================
+==================================================
+Número do pedido:6
+Tempo de chegada: 50
+Número de Pizzas: 3
+Número de Pasteis: 2
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 77
+Tempo Necessario Ao Processamento: 5
+==================================================
+==================================================
+Número do pedido:5
+Tempo de chegada: 43
+Número de Pizzas: 3
+Número de Pasteis: 4
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 76
+Tempo Necessario Ao Processamento: 7
+==================================================
+==================================================
+Número do pedido:7
+Tempo de chegada: 52
+Número de Pizzas: 3
+Número de Pasteis: 2
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 79
+Tempo Necessario Ao Processamento: 5
+==================================================
+==================================================
+Número do pedido:10
+Tempo de chegada: 70
+Número de Pizzas: 1
+Número de Pasteis: 5
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 92
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:12
+Tempo de chegada: 78
+Número de Pizzas: 2
+Número de Pasteis: 1
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 95
+Tempo Necessario Ao Processamento: 3
+==================================================
+==================================================
+Número do pedido:11
+Tempo de chegada: 71
+Número de Pizzas: 3
+Número de Pasteis: 1
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 95
+Tempo Necessario Ao Processamento: 4
+==================================================
+==================================================
+Número do pedido:15
+Tempo de chegada: 82
+Número de Pizzas: 1
+Número de Pasteis: 5
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 104
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:14
+Tempo de chegada: 80
+Número de Pizzas: 2
+Número de Pasteis: 5
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 109
+Tempo Necessario Ao Processamento: 7
+==================================================
+==================================================
+Número do pedido:16
+Tempo de chegada: 86
+Número de Pizzas: 3
+Número de Pasteis: 3
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 116
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:13
+Tempo de chegada: 79
+Número de Pizzas: 3
+Número de Pasteis: 5
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 115
+Tempo Necessario Ao Processamento: 8
+==================================================
+==================================================
+Número do pedido:18
+Tempo de chegada: 107
+Número de Pizzas: 1
+Número de Pasteis: 2
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 120
+Tempo Necessario Ao Processamento: 3
+==================================================
+==================================================
+Número do pedido:20
+Tempo de chegada: 114
+Número de Pizzas: 2
+Número de Pasteis: 1
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 131
+Tempo Necessario Ao Processamento: 3
+==================================================
+==================================================
+Número do pedido:17
+Tempo de chegada: 106
+Número de Pizzas: 3
+Número de Pasteis: 2
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 133
+Tempo Necessario Ao Processamento: 5
+==================================================
+==================================================
+Número do pedido:23
+Tempo de chegada: 132
+Número de Pizzas: 1
+Número de Pasteis: 1
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 142
+Tempo Necessario Ao Processamento: 2
+==================================================
+==================================================
+Número do pedido:24
+Tempo de chegada: 133
+Número de Pizzas: 1
+Número de Pasteis: 1
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 143
+Tempo Necessario Ao Processamento: 2
+==================================================
+==================================================
+Número do pedido:21
+Tempo de chegada: 116
+Número de Pizzas: 3
+Número de Pasteis: 3
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 146
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:19
+Tempo de chegada: 108
+Número de Pizzas: 3
+Número de Pasteis: 5
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 144
+Tempo Necessario Ao Processamento: 8
+==================================================
+==================================================
+Número do pedido:22
+Tempo de chegada: 125
+Número de Pizzas: 2
+Número de Pasteis: 5
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 154
+Tempo Necessario Ao Processamento: 7
+==================================================
+==================================================
+Número do pedido:25
+Tempo de chegada: 139
+Número de Pizzas: 3
+Número de Pasteis: 1
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 163
+Tempo Necessario Ao Processamento: 4
+==================================================
+==================================================
+Número do pedido:26
+Tempo de chegada: 147
+Número de Pizzas: 3
+Número de Pasteis: 2
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 174
+Tempo Necessario Ao Processamento: 5
+==================================================
+==================================================
+Número do pedido:28
+Tempo de chegada: 157
+Número de Pizzas: 1
+Número de Pasteis: 5
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 179
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:30
+Tempo de chegada: 168
+Número de Pizzas: 2
+Número de Pasteis: 1
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 185
+Tempo Necessario Ao Processamento: 3
+==================================================
+==================================================
+Número do pedido:27
+Tempo de chegada: 156
+Número de Pizzas: 3
+Número de Pasteis: 4
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 189
+Tempo Necessario Ao Processamento: 7
+==================================================
+==================================================
+Número do pedido:29
+Tempo de chegada: 167
+Número de Pizzas: 3
+Número de Pasteis: 3
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 197
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:31
+Tempo de chegada: 173
+Número de Pizzas: 2
+Número de Pasteis: 4
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 199
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:35
+Tempo de chegada: 200
+Número de Pizzas: 1
+Número de Pasteis: 1
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 210
+Tempo Necessario Ao Processamento: 2
+==================================================
+==================================================
+Número do pedido:32
+Tempo de chegada: 185
+Número de Pizzas: 3
+Número de Pasteis: 2
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 212
+Tempo Necessario Ao Processamento: 5
+==================================================
+==================================================
+Número do pedido:36
+Tempo de chegada: 204
+Número de Pizzas: 2
+Número de Pasteis: 2
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 224
+Tempo Necessario Ao Processamento: 4
+==================================================
+==================================================
+Número do pedido:33
+Tempo de chegada: 186
+Número de Pizzas: 3
+Número de Pasteis: 5
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 222
+Tempo Necessario Ao Processamento: 8
+==================================================
+==================================================
+Número do pedido:34
+Tempo de chegada: 193
+Número de Pizzas: 3
+Número de Pasteis: 4
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 226
+Tempo Necessario Ao Processamento: 7
+==================================================
+==================================================
+Número do pedido:37
+Tempo de chegada: 205
+Número de Pizzas: 2
+Número de Pasteis: 4
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 231
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:38
+Tempo de chegada: 211
+Número de Pizzas: 2
+Número de Pasteis: 4
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 237
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:39
+Tempo de chegada: 218
+Número de Pizzas: 1
+Número de Pasteis: 5
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 240
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:41
+Tempo de chegada: 229
+Número de Pizzas: 2
+Número de Pasteis: 3
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 252
+Tempo Necessario Ao Processamento: 5
+==================================================
+==================================================
+Número do pedido:45
+Tempo de chegada: 237
+Número de Pizzas: 2
+Número de Pasteis: 1
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 254
+Tempo Necessario Ao Processamento: 3
+==================================================
+==================================================
+Número do pedido:44
+Tempo de chegada: 236
+Número de Pizzas: 1
+Número de Pasteis: 5
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 258
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:40
+Tempo de chegada: 220
+Número de Pizzas: 3
+Número de Pasteis: 5
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 256
+Tempo Necessario Ao Processamento: 8
+==================================================
+==================================================
+Número do pedido:50
+Tempo de chegada: 249
+Número de Pizzas: 1
+Número de Pasteis: 1
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 263
+Tempo Necessario Ao Processamento: 2
+==================================================
+==================================================
+Número do pedido:43
+Tempo de chegada: 234
+Número de Pizzas: 2
+Número de Pasteis: 5
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 263
+Tempo Necessario Ao Processamento: 7
+==================================================
+==================================================
+Número do pedido:51
+Tempo de chegada: 254
+Número de Pizzas: 1
+Número de Pasteis: 1
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 270
+Tempo Necessario Ao Processamento: 2
+==================================================
+==================================================
+Número do pedido:46
+Tempo de chegada: 241
+Número de Pizzas: 2
+Número de Pasteis: 4
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 271
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:47
+Tempo de chegada: 245
+Número de Pizzas: 2
+Número de Pasteis: 3
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 273
+Tempo Necessario Ao Processamento: 5
+==================================================
+==================================================
+Número do pedido:42
+Tempo de chegada: 232
+Número de Pizzas: 3
+Número de Pasteis: 5
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 275
+Tempo Necessario Ao Processamento: 8
+==================================================
+==================================================
+Número do pedido:48
+Tempo de chegada: 246
+Número de Pizzas: 1
+Número de Pasteis: 5
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 278
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:53
+Tempo de chegada: 275
+Número de Pizzas: 1
+Número de Pasteis: 1
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 285
+Tempo Necessario Ao Processamento: 2
+==================================================
+==================================================
+Número do pedido:49
+Tempo de chegada: 248
+Número de Pizzas: 2
+Número de Pasteis: 5
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 289
+Tempo Necessario Ao Processamento: 7
+==================================================
+==================================================
+Número do pedido:52
+Tempo de chegada: 269
+Número de Pizzas: 1
+Número de Pasteis: 5
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 291
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:55
+Tempo de chegada: 284
+Número de Pizzas: 1
+Número de Pasteis: 2
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 297
+Tempo Necessario Ao Processamento: 3
+==================================================
+==================================================
+Número do pedido:54
+Tempo de chegada: 281
+Número de Pizzas: 1
+Número de Pasteis: 4
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 300
+Tempo Necessario Ao Processamento: 5
+==================================================
+==================================================
+Número do pedido:56
+Tempo de chegada: 294
+Número de Pizzas: 1
+Número de Pasteis: 4
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 313
+Tempo Necessario Ao Processamento: 5
+==================================================
+==================================================
+Número do pedido:57
+Tempo de chegada: 300
+Número de Pizzas: 2
+Número de Pasteis: 2
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 320
+Tempo Necessario Ao Processamento: 4
+==================================================
+==================================================
+Número do pedido:58
+Tempo de chegada: 308
+Número de Pizzas: 2
+Número de Pasteis: 1
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 325
+Tempo Necessario Ao Processamento: 3
+==================================================
+==================================================
+Número do pedido:60
+Tempo de chegada: 319
+Número de Pizzas: 1
+Número de Pasteis: 5
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 341
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:59
+Tempo de chegada: 313
+Número de Pizzas: 3
+Número de Pasteis: 3
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 343
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:61
+Tempo de chegada: 321
+Número de Pizzas: 2
+Número de Pasteis: 3
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 344
+Tempo Necessario Ao Processamento: 5
+==================================================
+==================================================
+Número do pedido:62
+Tempo de chegada: 322
+Número de Pizzas: 2
+Número de Pasteis: 4
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 348
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:63
+Tempo de chegada: 340
+Número de Pizzas: 1
+Número de Pasteis: 3
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 356
+Tempo Necessario Ao Processamento: 4
+==================================================
+==================================================
+Número do pedido:64
+Tempo de chegada: 342
+Número de Pizzas: 2
+Número de Pasteis: 1
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 359
+Tempo Necessario Ao Processamento: 3
+==================================================
+==================================================
+Número do pedido:65
+Tempo de chegada: 344
+Número de Pizzas: 2
+Número de Pasteis: 3
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 367
+Tempo Necessario Ao Processamento: 5
+==================================================
+==================================================
+Número do pedido:66
+Tempo de chegada: 348
+Número de Pizzas: 2
+Número de Pasteis: 4
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 374
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:68
+Tempo de chegada: 381
+Número de Pizzas: 1
+Número de Pasteis: 3
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 397
+Tempo Necessario Ao Processamento: 4
+==================================================
+==================================================
+Número do pedido:67
+Tempo de chegada: 370
+Número de Pizzas: 3
+Número de Pasteis: 3
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 400
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:71
+Tempo de chegada: 402
+Número de Pizzas: 1
+Número de Pasteis: 2
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 415
+Tempo Necessario Ao Processamento: 3
+==================================================
+==================================================
+Número do pedido:72
+Tempo de chegada: 407
+Número de Pizzas: 1
+Número de Pasteis: 1
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 417
+Tempo Necessario Ao Processamento: 2
+==================================================
+==================================================
+Número do pedido:69
+Tempo de chegada: 394
+Número de Pizzas: 1
+Número de Pasteis: 5
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 416
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:70
+Tempo de chegada: 398
+Número de Pizzas: 2
+Número de Pasteis: 5
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 427
+Tempo Necessario Ao Processamento: 7
+==================================================
+==================================================
+Número do pedido:73
+Tempo de chegada: 409
+Número de Pizzas: 2
+Número de Pasteis: 4
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 435
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:74
+Tempo de chegada: 415
+Número de Pizzas: 3
+Número de Pasteis: 2
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 442
+Tempo Necessario Ao Processamento: 5
+==================================================
+==================================================
+Número do pedido:76
+Tempo de chegada: 427
+Número de Pizzas: 3
+Número de Pasteis: 1
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 451
+Tempo Necessario Ao Processamento: 4
+==================================================
+==================================================
+Número do pedido:75
+Tempo de chegada: 420
+Número de Pizzas: 3
+Número de Pasteis: 3
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 450
+Tempo Necessario Ao Processamento: 6
+==================================================
+==================================================
+Número do pedido:79
+Tempo de chegada: 445
+Número de Pizzas: 1
+Número de Pasteis: 1
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 455
+Tempo Necessario Ao Processamento: 2
+==================================================
+==================================================
+Número do pedido:81
+Tempo de chegada: 451
+Número de Pizzas: 1
+Número de Pasteis: 2
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 464
+Tempo Necessario Ao Processamento: 3
+==================================================
+==================================================
+Número do pedido:77
+Tempo de chegada: 441
+Número de Pizzas: 3
+Número de Pasteis: 3
+Etapa: 4
+Tempo De Entrada Na Unidade de Processamento: 471
+Tempo Necessario Ao Processamento: 6
+==================================================
